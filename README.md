@@ -1,31 +1,36 @@
 # Sustainability Analysis Portfolio
 
-Turning sustainability data into decisions — ESG credibility, environmental risk, and applied analytics for business impact.
+Turning ESG and sustainability data into decision-ready insights — focused on data credibility, environmental risk, and business impact.
 
----
+............................................................................................................................................................................................................
 
-##  Overview
+## Overview
 
-This portfolio showcases applied sustainability analysis focused on translating environmental data, ESG reporting, and system-level risks into actionable insights for organizations.
+This portfolio demonstrates how sustainability data can be translated into actionable business insights.
 
-The work emphasizes:
-- Data credibility and transparency in sustainability reporting  
-- Environmental and governance risk analysis  
-- Practical, decision-oriented frameworks  
+Each project focuses on identifying gaps between reported ESG claims and underlying risks, with emphasis on:
 
----
+- Data credibility and reporting transparency  
+- Environmental and operational risk exposure  
+- Decision-relevant insights for business strategy  
 
-##  Selected Projects
+The goal is simple: move beyond reporting → into analysis that informs real decisions.
 
-### 1. ESG Data Credibility — Chipotle Case
-Analysis of sustainability reporting (2023–2024) identifying gaps between modeled data and communicated impact.
+............................................................................................................................................................................................................
 
-**Key insight:**  
-Misalignment between data quality and consumer-facing claims creates regulatory and credibility risks.
+## Selected Projects
+
+### ESG Data Credibility — Chipotle Case
+
+Analysis of sustainability disclosures (2023–2024) to assess the reliability of ESG claims and identify potential gaps between reported metrics and operational risks.
+
+- Identified key areas of data ambiguity and credibility risk  
+- Evaluated environmental and supply chain exposure  
+- Translated findings into decision-relevant insights  
 
  [View Project](./projects/chipotle-data-credibility/)
 
----
+............................................................................................................................................................................................................
 
 ### 2. Data Center Conflict Analysis — Wisconsin
 SQL + Python analysis of community conflicts around data center development.
@@ -37,24 +42,24 @@ SQL + Python analysis of community conflicts around data center development.
 
 (Add link once uploaded)
 
----
-
+............................................................................................................................................................................................................
 ##  Applied Insights
 
 Short, decision-focused translations of research into business-relevant insights.
 
  (Add later)
 
----
+............................................................................................................................................................................................................
 
-## Tools & Methods
+## Methods & Tools
 
-- Python (data analysis, visualization)  
-- SQL (data structuring, querying)  
-- ESG / Sustainability Reporting Analysis  
-- Systems thinking & policy analysis  
+- ESG / Sustainability Reporting Analysis (TCFD, TNFD-aligned thinking)
+- Risk assessment frameworks (physical, transition, governance)
+- Data structuring and scoring (Python, SQL)
+- Visualization and reporting (Power BI, dashboards)
+- Mixed-method analysis (qualitative + quantitative integration)
 
----
+............................................................................................................................................................................................................
 
 ##  Focus
 
