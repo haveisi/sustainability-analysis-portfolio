@@ -1,72 +1,73 @@
-# Sustainability Analysis Portfolio
+# Sustainability Analytics Portfolio
 
-Turning ESG and sustainability data into decision-ready insights — focused on data credibility, environmental risk, and business impact.
+I analyze climate risk, ESG disclosure credibility, and infrastructure impacts to support better business and policy decisions.
+My work combines Python, GIS, and AI to convert sustainability disclosures into measurable risk signals and decision-relevant insights.
 
-............................................................................................................................................................................................................
+## Featured Work
 
-## Overview
+- Climate Action Plan AI Analysis — LLM-based extraction and benchmarking of mitigation and adaptation strategies  
+- ESG Disclosure Credibility (Wisconsin Firms) — GRI-based scoring of energy and emissions transparency  
+- Data Center Risk Modeling (GIS) — spatial analysis of water, energy, and environmental constraints  
+- Data Center Conflict Analysis (SQL + Python) — analysis of governance and community response patterns  
 
-This portfolio demonstrates how sustainability data can be translated into actionable business insights.
+---
 
-Each project focuses on identifying gaps between reported ESG claims and underlying risks, with emphasis on:
+## What This Portfolio Demonstrates
 
-- Data credibility and reporting transparency  
-- Environmental and operational risk exposure  
-- Decision-relevant insights for business strategy  
+- ESG disclosures are often incomplete, inconsistent, and strategically reported  
+- Climate risk is spatial, systemic, and under-integrated into decision-making  
+- Infrastructure projects create trade-offs across energy, water, and communities  
+- AI pipelines can transform unstructured sustainability reports into structured intelligence  
 
-The goal is simple: move beyond reporting → into analysis that informs real decisions.
-
-............................................................................................................................................................................................................
+---
 
 ## Selected Projects
 
-### ESG Data Credibility — Chipotle Case
+### ESG Disclosure Credibility — Food Sector (Chipotle)
 
-Analysis of sustainability disclosures (2023–2024) to assess the reliability of ESG claims and identify potential gaps between reported metrics and operational risks.
+Analysis of 2023–2024 sustainability disclosures to assess the reliability of ESG claims and identify gaps between reported metrics and operational risks.
 
-- Identified key areas of data ambiguity and credibility risk  
-- Evaluated environmental and supply chain exposure  
-- Translated findings into decision-relevant insights  
+- Identified inconsistencies in emissions and supply chain reporting  
+- Evaluated environmental exposure and reporting gaps  
+- Translated findings into decision-relevant insights for risk and strategy  
 
- [View Project](./projects/chipotle-data-credibility/)
+[View Project](./projects/chipotle-data-credibility/)
 
-............................................................................................................................................................................................................
+---
 
-### 2. Data Center Conflict Analysis — Wisconsin
+### Data Center Conflict Analysis — Wisconsin
+
 SQL + Python analysis of community conflicts around data center development.
 
-**Key focus:**
-- Energy demand  
-- Water use  
-- Governance and policy dynamics  
+**Focus areas:**
+- Energy demand and infrastructure stress  
+- Water use and environmental trade-offs  
+- Governance, transparency, and local opposition  
 
 (Add link once uploaded)
 
-............................................................................................................................................................................................................
-##  Applied Insights
-
-Short, decision-focused translations of research into business-relevant insights.
-
- (Add later)
-
-............................................................................................................................................................................................................
+---
 
 ## Methods & Tools
 
-- ESG / Sustainability Reporting Analysis (TCFD, TNFD-aligned thinking)
-- Risk assessment frameworks (physical, transition, governance)
-- Data structuring and scoring (Python, SQL)
-- Visualization and reporting (Power BI, dashboards)
-- Mixed-method analysis (qualitative + quantitative integration)
+- ESG analysis (GRI, TCFD/TNFD-aligned thinking)  
+- Climate risk assessment (physical, transition, governance)  
+- Data analysis (Python, SQL)  
+- Spatial analysis (GIS)  
+- Visualization (Power BI, dashboards)  
+- AI-assisted document analysis (LLM pipelines)  
 
-............................................................................................................................................................................................................
+---
 
-##  Focus
+## Focus
 
-This work is designed to support:
-- ESG analysts  
-- sustainability teams  
-- strategy & risk functions  
+This work supports:
+- ESG and sustainability teams  
+- Risk and strategy functions  
+- Policy and infrastructure decision-making  
+
+---
 
 ## Asset
-  [Download full 1-page analysis](./projects/chipotle-data-credibility/chipotle_sustainability_1pager_elite.pdf) 
+
+[Download 1-page ESG analysis](./projects/chipotle-data-credibility/chipotle_sustainability_1pager_elite.pdf)
