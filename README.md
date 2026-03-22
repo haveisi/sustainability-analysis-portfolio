@@ -63,4 +63,5 @@ This work is designed to support:
 - sustainability teams  
 - strategy & risk functions  
 
-by improving clarity, credibility, and decision-making in sustainability.
+## Asset
+  [Download full 1-page analysis](./projects/chipotle-data-credibility/chipotle_sustainability_1pager_elite.pdf) 
